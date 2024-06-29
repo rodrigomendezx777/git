@@ -1,0 +1,12 @@
+.titulo {
+    color: blue;
+}
+
+#titulo {
+    font-size: 42px;
+    display: flex;
+}
+
+.ativo {
+    background: green;
+}
